@@ -1,0 +1,15 @@
+This project will be a newly innovated fitness app. 
+The complete goal will be to have a social media platform designated for fitness.
+For this project, the goal is to set up a "Workout" page, a "Daily Tracker" page, and a "Calendar" page. 
+The complete project will also have a "Home" page, where you can create new posts, whether its pictures or workout ideas to share with your friends. 
+
+Key features (Workout):
+-Allow the user to choose a split for a certain duration of time
+-Allow the user to input exercises along with the amount of weight, reps, duration, etc.
+-Allow the user to choose from exercises for certain muscle groups if desired
+
+Key features (Daily Tracker):
+-Allow the user to input their weight, calorie intake, calories burned, duration of workout, time of workout, sleep, and energy level
+
+Key features (Calendar):
+-Allow the user to interact with a calendar that shows them future and past workouts with information from the daily tracker
