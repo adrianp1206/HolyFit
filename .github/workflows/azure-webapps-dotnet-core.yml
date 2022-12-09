@@ -17,7 +17,7 @@
 # For more information on the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
 
-##The following two lines are from https://github.com/marketplace/actions/setup-net-core-sdk and set up .net for the workflow
+#The following two lines are from the Github marketplace (Setup .NET Core SDK) and set up .net for the workflow
 - name: Setup .NET Core SDK
   uses: actions/setup-dotnet@v3.0.3
 
