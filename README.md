@@ -2,8 +2,8 @@
 Team Name, Member Names, Member Emails
 Gabriel Brown gabrown@bu.edu
 Adrian Pawlowski ajp12@bu.edu
-Brennan Mahoney
-Ryan
+Brennan Mahoney bmm1@bu.edu
+Ryan Hekman rhekman@bu.edu
 
 Overview:
 
