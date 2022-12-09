@@ -2,8 +2,8 @@
 Team Name, Member Names, Member Emails
 Gabriel Brown gabrown@bu.edu
 Adrian Pawlowski ajp12@bu.edu
-Brennan Mahoney
-Ryan
+Brennan Mahoney bmm1@bu.edu
+Ryan Hekman rhekman@bu.edu
 
 Overview:
 
@@ -16,7 +16,9 @@ Overview:
  
  Build:
  
- In order to build our project with cross platform use we are utilizing xamarin. 
+ In order to build our project with cross platform use we are utilizing a webapp.
+    -Previously discussed utilizing xamarin to develop the app from a template because it can build to iOS and android at the same time.
+    -However, we had difficulty getting our environments all working with xamarin, this could be revisited
  For our databse we will utilize MongoDB along with Azure in order to create a database that stores login information and profile information for the user.
  We are coding in c# to allow seemless incorporation using these resources.
  We are also using visual studios community as our IDE to further the seemless integration Microsoft has created.
